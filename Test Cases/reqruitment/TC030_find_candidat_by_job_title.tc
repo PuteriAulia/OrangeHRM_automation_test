@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC030_find_candidat_by_job_title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29e85c4a-f033-4050-905e-377058ec399a</testCaseGuid>
+</TestCaseEntity>

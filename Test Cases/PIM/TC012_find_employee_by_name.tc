@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC012_find_employee_by_name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fed0555-455c-4e8f-a0e9-81cb5fd6ce92</testCaseGuid>
+</TestCaseEntity>

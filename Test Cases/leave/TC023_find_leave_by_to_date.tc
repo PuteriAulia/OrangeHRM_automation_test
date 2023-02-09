@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC023_find_leave_by_to_date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9824d62-ce94-4ac7-973a-b041f3fa45a3</testCaseGuid>
+</TestCaseEntity>

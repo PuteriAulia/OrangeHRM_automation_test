@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC002_find_admin_by_username</name>
+   <name>TC021_delete_employee</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>13b2c337-26f4-49c3-bb58-c2d22d4a3d7d</testCaseGuid>
+   <testCaseGuid>4fe722f1-d0d9-4d42-b455-82e3737b6ff4</testCaseGuid>
 </TestCaseEntity>

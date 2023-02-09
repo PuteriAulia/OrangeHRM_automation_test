@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC008_find_admin_by_status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e25ce664-d7b5-4018-b6f3-61885eebd1a1</testCaseGuid>
+</TestCaseEntity>

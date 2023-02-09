@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6bb1ddf7-8f98-46bb-aa4f-b977d20ca696</webElementGuid>
+      <webElementGuid>a8bb06db-17c5-4b2f-8b25-29999dae5728</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>223ff32f-f3e3-4ff3-8aae-3a738ad189a4</webElementGuid>
+      <webElementGuid>427a1aed-e9a5-453e-849f-0dab5be449fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space</value>
-      <webElementGuid>ae252899-f9e3-45f8-b110-6479e8132780</webElementGuid>
+      <webElementGuid>7f081dad-f2c6-42de-bd41-b1e5c219b7f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>text</name>
       <type>Main</type>
       <value> Search </value>
-      <webElementGuid>3e8bcfcd-c4e8-4a22-9470-9a4d1435812b</webElementGuid>
+      <webElementGuid>b4b6cbe0-0826-4645-8f3b-d246d3e73b7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;oxd-table-filter&quot;]/div[@class=&quot;oxd-table-filter-area&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-actions&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space&quot;]</value>
-      <webElementGuid>b26f85e9-e5e8-4f03-a268-11b1cf1d34d3</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-candidate-page&quot;]/div[@class=&quot;oxd-table-filter&quot;]/div[@class=&quot;oxd-table-filter-area&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-actions&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space&quot;]</value>
+      <webElementGuid>09b9d258-6fe0-449b-9963-d0fdfc078431</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,23 +62,23 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>ec546d80-4a50-4a4c-9ab7-d6cf5b44d853</webElementGuid>
+      <webElementGuid>c0787654-34d9-408a-8475-9fd6df4aebb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/form/div[2]/button[2]</value>
-      <webElementGuid>19902256-895d-439a-bb93-b4624c5343df</webElementGuid>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/form/div[4]/button[2]</value>
+      <webElementGuid>e84ec1ca-d7b7-4eaa-8326-644771b18f9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[2]/following::button[2]</value>
-      <webElementGuid>265d514a-2bf9-469d-89d2-2c8e155a02db</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual'])[1]/following::button[2]</value>
+      <webElementGuid>58cda3dd-92ca-4ae9-8cd4-58b445d8f117</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
-      <webElementGuid>840061e5-da77-468c-be96-7d468111ef04</webElementGuid>
+      <webElementGuid>30c3e3e9-0338-4a32-b678-bbaed3fa7f00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>e5736f9c-434a-4a67-a2a4-38568e4c082b</webElementGuid>
+      <webElementGuid>799da149-3da8-49fa-8e3d-68d18b1e0d59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,86 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = ' Search ' or . = ' Search ')]</value>
-      <webElementGuid>eda05a29-5b11-4915-bbaa-cf35b2fbc879</webElementGuid>
+      <webElementGuid>cfc64b32-787f-43d8-add9-7400b1adde26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[5]/following::button[2]</value>
+      <webElementGuid>7d358235-ae4b-453a-b022-3e2834ca891d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[4]/following::button[2]</value>
+      <webElementGuid>9e3487a4-1975-4bd2-aa32-7e91a61184b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/form/div[3]/button[2]</value>
+      <webElementGuid>30d30200-f789-4442-ab22-22d74b431964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engineering'])[1]/following::button[2]</value>
+      <webElementGuid>13a2e825-9f69-46fa-942e-ec51cb0b5503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[2]/following::button[2]</value>
+      <webElementGuid>c2769598-a81e-4843-83aa-6f09de779190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[1]/following::button[2]</value>
+      <webElementGuid>aa638a6f-7bac-4fcb-bcdd-b736b0ece8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/form/div[2]/button[2]</value>
+      <webElementGuid>3f9233e3-2f35-42d4-b939-d29342b4d25a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM'])[2]/following::button[2]</value>
+      <webElementGuid>fb85ff58-b929-4e1f-aca4-ac7d708046c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[3]/following::button[2]</value>
+      <webElementGuid>7a1a4efb-3d88-423e-8dc6-cf79241170a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enabled'])[1]/following::button[2]</value>
+      <webElementGuid>61cfd3a6-d15e-48de-88c1-48ffbbbf8645</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

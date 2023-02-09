@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006_find_admin_by_user_role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4ade527-6e1f-4d42-b38e-0b301074493f</testCaseGuid>
+</TestCaseEntity>

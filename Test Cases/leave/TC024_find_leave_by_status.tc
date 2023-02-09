@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC024_find_leave_by_status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfa19549-6ca6-47f2-aa64-ec06ce7f3bb3</testCaseGuid>
+</TestCaseEntity>
